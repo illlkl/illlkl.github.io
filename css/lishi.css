@@ -1,0 +1,50 @@
+body{background-image: url(../images/5-13050GZ015.gif);}
+.nav li a{font-size: 22px;color: #333;}
+.nav li a:hover{background-color:  rgba(95, 53, 57,0.8);color: #fff;}
+.wap, .bianbg{background-color: rgb(255, 255, 255);  height: 56px;}
+.logo{width: 100%;}
+.wap ul{margin: 3px;}
+
+
+.banwei{height: 250px;background-image: url(../images/5-120601093402.png);color:rgb(102, 102, 102);text-align: center;}
+.banwei .row{padding: 50px;}
+
+a:hover{text-decoration: none;}
+
+/* .wenben1 img{width: 100%;} */
+.gaibian{margin: 50px 0px;}
+.gaibian .row{text-align: center;}
+.wenzi1{margin: 0px;padding: 0px;text-align: center;}
+.wenzi1 h1{margin: 50px 0px;font-size: 30px;border-bottom: 3px solid rgb(97, 170, 238);display: inline-block;padding: 10px;}
+
+.pand1{margin: 50px 0px;}
+.pand1 .row{text-align: center;}
+/* .wenz{height: 500px;width: 500px;background-color: rgba(172, 191, 255,0.8);padding: 30px;} */
+.wenzi1 p{padding: 10px;}
+.wenzi1 a p{padding:50px 0px;}
+.wenzi1 img{width: 100%;}
+
+.hh{background-image: url(../images/5-13050GTF9.png);background-color: rgb(179,161,147);}
+.gaibian .row .wenben1:hover{transition:all 0.5s ease;transform: translate(0,-2px);box-shadow: 0px 0px 15px rgba(0,0,0,0.1);}
+/* .gaibian img:hover{transform: scale(1.1);}
+.gaibian img{transition:all 0.5s ease;} */
+.hh a{color: rgb(255, 255, 255);}
+.hh{color: #fff;}
+
+.ban{height: 500px;background-image: url(../images/5-120601095139-50.gif);color: #fff;}
+.ban .pp1{margin-top: 140px;}
+.ban p{font-size: 60px;}
+.ban .container .pp{text-align: center;}
+
+.wenzi1{text-align: center;}
+.wenzi1 h1{border-bottom: 2px solid rgb(255, 255, 255);display: inline-block;padding: 10px;}
+
+.wenzi2{text-align: center;}
+
+.biaot{text-align: center;}
+.biaot h1{display: inline-block;color: rgb(117, 100, 69);}
+.biaobg{background-image: url(../images/45.png);display: inline-block;width: 195px;margin: 20px;}
+
+.wenz{width: 570px;height: 740px;background-image: url(../images/zbg.png);padding: 50px 70px;}
+
+.wenzi-2{margin: 30px;border-bottom: 4px solid rgb(120, 148, 224);display: inline-block;padding: 20px 0px;}

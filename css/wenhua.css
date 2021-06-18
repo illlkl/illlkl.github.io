@@ -1,0 +1,52 @@
+body{background-image: url(../images/5-13050GZ015.gif);}
+.nav li a{font-size: 22px;color: #333;}
+.nav li a:hover{background-color:  rgba(95, 53, 57,0.8);color: #fff;}
+.wap, .bianbg{background-color: rgb(255, 255, 255);  height: 56px;}
+.logo{width: 100%;}
+.wap ul{margin: 3px;}
+
+
+.banwei{height: 250px;background-image: url(../images/5-120601093402.png);color:rgb(102, 102, 102);text-align: center;}
+.banwei .row{padding: 50px;}
+
+.wenzi1{text-align: center;}
+/* .wenzi1 h1{border-bottom: 3px solid rgb(90, 132, 248);display: inline-block;padding: 10px;} */
+/* .tup img{width:555px;height: 736px;} */
+
+
+
+.bianse1 img{width:100% ;}
+
+
+
+
+.banner{text-align: center;}
+
+.wenzi1{background-image: url(../images/45.png);background-repeat:no-repeat;}
+.wenzi1 h1{color: rgb(117, 100, 69);}
+
+.yuantu{ padding: 5px;text-align: center;}
+.yuantu img{box-shadow: 1px 1px 2px #bcbcbc;border: 10px solid #fff;background-color: #fff;}
+.yuantu img:hover{box-shadow: 1px 1px 8px #bcbcbc;}
+
+.biaot{text-align: center;}
+.biaot h1{display: inline-block;color: rgb(117, 100, 69);}
+.biaobg{background-image: url(../images/45.png);display: inline-block;width: 195px;margin: 20px;}
+
+.wz{text-align: center;background-color: rgb(179,161,147);display: inline-block;color: #fff; border-radius: 10px;margin: 10px;}
+.wz p{font-size: 18px;padding: 10px 20px;margin: 0px;}
+
+.bg1{height: 520px;background-image: url(../images/bg1.png);background-color: #fff;}
+
+.wen1 img{width: 100%;}
+.wen2{text-align: center; border-radius: 10px;background-color: #fff; padding: 0;border: 4px solid rgb(199,164,107);overflow: hidden;}
+.wen1 p{padding: 20px;}
+
+.bg{background-image: url(../images/60c39574c99fb.png);background-color: #fff;}
+.bg h1{display: inline-block;}
+.bg .tp{margin: 0px;padding: 0;}
+.bg{padding: 0;}
+.wb{padding: 20px;text-align: center;margin: 25px 0px;}
+.mg{margin: 25px 0px;}
+
+.wb h1{border-bottom: 4px solid rgb(120, 148, 224);display: inline-block;padding: 20px 0px;}

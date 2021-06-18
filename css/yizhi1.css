@@ -1,0 +1,39 @@
+body{background-image: url(../images/5-13050GZ015.gif);font-family: 'icomoon';}
+.nav li a{font-size: 22px;color: #333;}
+.nav li a:hover{background-color:  rgba(95, 53, 57,0.8);color: #fff;}
+.wap, .bianbg{background-color: rgb(255, 255, 255);  height: 56px;}
+.logo{width: 100%;}
+.wap ul{margin: 3px;}
+
+.banwei{height: 250px;background-image: url(../images/5-120601093402.png);color:rgb(102, 102, 102);text-align: center;}
+.banwei .row{padding: 50px;}
+
+.banner{text-align: center;}
+
+.bg{background-color:rgb(255, 255, 255);}
+.bg h1{display: inline-block;border-bottom: 4px solid rgb(115, 207, 243);padding: 10px 0px;}
+.bg .tp{margin: 0px;padding: 0;}
+.tp img{padding: 0px 25px;}
+
+
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?1pmckm');
+    src:  url('../fonts/icomoon.eot?1pmckm#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?1pmckm') format('truetype'),
+      url('../fonts/icomoon.woff?1pmckm') format('woff'),
+      url('../fonts/icomoon.svg?1pmckm#icomoon') format('svg');
+
+  }
+
+  .vv{text-align: center;}
+  .wz{text-align: center;background-color: rgb(179,161,147);display: inline-block;color: #fff; border-radius: 10px;margin: 10px;}
+.wz p{font-size: 18px;padding: 10px 20px;margin: 0px;}
+.wz a:hover{text-decoration: none;color: rgb(255, 255, 255);}
+.wz a{color: #333;}
+
+.tup{margin: 15px 0px;}
+
+.wz1{padding: 25px;}
+
+.wz1 p{padding: 25px 0px;}
